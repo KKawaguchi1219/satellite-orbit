@@ -10,4 +10,10 @@ Display program for satellite orbits using python
 - satellite.py: 動作デモファイル
 
 ## 実行例
-![衛星軌道](https://github.com/KKawaguchi1219/satellite-orbit/blob/picture/Figure_1.pn)
+```
+地上高さ： 35850 km
+初速度： 3.1 km/s
+離心率： 0.017433573226319554
+周期： 1477.2569671661574 min
+```
+![衛星軌道](https://github.com/KKawaguchi1219/satellite-orbit/blob/picture/Figure_1.png)
